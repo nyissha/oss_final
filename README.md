@@ -1,6 +1,6 @@
 # oss_final
 
-## code is in master branch
+## The code is in the master branch.
 
 created by nyissha. 
 
